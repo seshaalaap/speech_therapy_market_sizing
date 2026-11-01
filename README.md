@@ -5,7 +5,7 @@
 ## Key findings
 
 - **~₹16,600 crore** a year in paid demand for children's speech therapy (base case)
-- India's ~5,500 practising speech therapists can serve only **~5%** of it
+- India's ~5,500 practicing speech therapists can serve only **~5%** of it
 - **~1 lakh more therapists** would be needed, while only ~2,500 graduate each year
 
 **Recommendation:** help each therapist serve more children through group sessions, parent-led home practice, teletherapy and reminder tools.
